@@ -1,0 +1,12 @@
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Release\DescobrirWordPress.exe.config
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Release\DescobrirWordPress.exe
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Release\DescobrirWordPress.pdb
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.fomularioPrincipal.resources
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.Properties.Resources.resources
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.csproj.GenerateResource.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.csproj.CoreCompileInputs.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.exe
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.pdb
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.csprojAssemblyReference.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Release\IpPublicKnowledge.dll
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Release\DescobrirWordPress.csproj.CopyComplete

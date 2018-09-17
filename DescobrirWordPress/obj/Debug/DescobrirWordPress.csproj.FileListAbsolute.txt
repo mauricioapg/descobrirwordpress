@@ -1,0 +1,10 @@
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Debug\DescobrirWordPress.exe.config
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Debug\DescobrirWordPress.exe
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\bin\Debug\DescobrirWordPress.pdb
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.csprojAssemblyReference.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.Properties.Resources.resources
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.csproj.GenerateResource.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.csproj.CoreCompileInputs.cache
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.exe
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.pdb
+Z:\ÁREA DE TRABALHO\DescobrirWordPress\DescobrirWordPress\obj\Debug\DescobrirWordPress.fomularioPrincipal.resources
